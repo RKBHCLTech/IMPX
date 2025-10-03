@@ -1,0 +1,6 @@
+Order ID	Order Date	Planned Production	Status_x	Purchase Order Number	Order Description	Status_y	Units to Produce	Planned Date	Actual Date	Customer Name
+ORD-LUM-1001	9/12/2025	558	Not yet	PO-5001	2x4	Not yet	558	9/12/2025		GreenWood Mills
+ORD-LUM-1002	9/12/2025	618	WIP	PO-5002	2x6	WIP	618	9/12/2025	9/12/2025	Pacific Timber Co.
+ORD-LUM-1003	9/12/2025	738	Completed	PO-5003	2x8	Completed	738	9/12/2025	9/12/2025	Weyerhaeuser Lumber Supply
+ORD-LUM-1004	9/12/2025	514	WIP	PO-5004	2x4	WIP	514	9/12/2025	9/12/2025	Pacific Timber Co.
+ORD-LUM-1005	9/12/2025	775	Not yet	PO-5005	2x10	Not yet	775	9/12/2025		Weyerhaeuser Lumber Supply
