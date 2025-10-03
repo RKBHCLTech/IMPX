@@ -1,0 +1,22 @@
+Id	RawTag	Asset	kpiFormulaName	Expression	TimeInterval	IsActive	FromLayer
+1	SC_Uptime	SharpChain	SC_Uptime_FiveMin	(ProductiveTime_SC/PlannedUptimeValue) * 100	5	1	S
+2	SC_Uptime	SharpChain	SC_Uptime_Hourly	(ProductiveTime_SC/PlannedUptimeValue) * 100	60	1	S
+3	SC_RunRate_Log_HR	SharpChain	SC_RunRate_Log_Hr_FiveMin	(Log_Count_SC/PlannedUptimeValue)*100	5	1	S
+4	SC_RunRate_Log_HR	SharpChain	SC_RunRate_Log_Hr_Hourly	(Log_Count_SC/PlannedUptimeValue)*60	60	1	S
+5	Gang_Uptime	Gang	Gang_Uptime_FiveMin	(ProductiveTime_Gang/PlannedUptimeValue) * 100	5	1	S
+6	Gang_Uptime	Gang	Gang_Uptime_Hourly	(ProductiveTime_Gang/PlannedUptimeValue) * 100	60	1	S
+7	Gang_CantsMin	Gang	Gang_CantsMin_FiveMin	(Cant_Cnt_Gang/PlannedUptimeValue) * 100	5	1	S
+8	Gang_CantsMin	Gang	Cant_Mins_Gang_Hourly	(Cant_Cnt_Gang/PlannedUptimeValue) * 100	60	1	S
+9	Trimmer_Uptime	Trimmer	Trimmer_Uptime_FiveMin	(ProductiveTime_Trimmer/PlannedUptimeValue) * 100	5	1	S
+10	Trimmer_Uptime	Trimmer	Trimmer_Uptime_Hourly	(ProductiveTime_Trimmer/PlannedUptimeValue) * 100	60	1	S
+11	Trimmer_TotalBoards	Trimmer	Trimmer_TotalBoards_FiveMin	([Board_Feet_TotalSize_02X04]+[Board_Feet_TotalSize_02X06]+[Board_Feet_TotalSize_02X08]+[Board_Feet_TotalSize_02X10]+[Board_Feet_TotalSize_02X12])	5	1	S
+12	Trimmer_TotalBoards	Trimmer	Trimmer_TotalBoards_Hourly	([Board_Feet_TotalSize_02X04]+[Board_Feet_TotalSize_02X06]+[Board_Feet_TotalSize_02X08]+[Board_Feet_TotalSize_02X10]+[Board_Feet_TotalSize_02X12])	60	1	S
+13	Trimmer_LineQuality	Trimmer	Trimmer_LineQuality_FiveMin	([Trimmer_Board Length]/[Board_Feet_TotalSize_02X06])*100	5	1	GT;S
+14	Trimmer_LineQuality	Trimmer	Trimmer_LineQuality_Hourly	([Trimmer_Board Length]/[Board_Feet_TotalSize_02X06])*60	60	1	GT;S
+15	Trimmer_MBFTotal	Trimmer	Trimmer_MBFTotal_FiveMin	Trimmer_TotalBoards/1000	5	1	G
+16	Trimmer_MBFTotal	Trimmer	Trimmer_MBFTotal_Hourly	Trimmer_TotalBoards/1000	60	1	G
+17	Trimmer_MBF_HR	Trimmer	Trimmer_MBF_HR_Hourly	(Trimmer_MBFTotal/PlannedUptimeValue)*60	60	1	G
+18	Trimmer_Line_Performance	Trimmer	Trimmer_LinePerformance_Hourly	Trimmer_MBF_HR/86.7	60	1	G
+19	Trimmer_Boards_HR	Trimmer	Trimmer_Boards_Hourly	(Trimmer_TotalBoards/PlannedUptimeValue)*60	60	1	G
+20	Trimmer_LugFill	Trimmer	Trimmer_Lug_Fill_FiveMinutes	(Trimmer_TotalBoards/Lug_Count_Trimmer)*100	5	1	G;S
+21	Trimmer_LugFill	Trimmer	Trimmer_Lug_Fill_Hourly	(Trimmer_TotalBoards/Lug_Count_Trimmer)*60	60	1	G;S

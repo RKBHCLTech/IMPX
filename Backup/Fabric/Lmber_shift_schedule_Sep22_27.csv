@@ -1,0 +1,73 @@
+Date	Asset	Shift Name	Shift Start Time	Shift End Time	IsProductive
+9/22/2025	SharpChain	Shift A	6:00	7:00	No
+9/22/2025	SharpChain	Shift A	7:00	18:00	Yes
+9/22/2025	SharpChain	Shift B	18:00	19:00	No
+9/22/2025	SharpChain	Shift B	19:00	6:00	Yes
+9/22/2025	Gang Saw	Shift A	6:00	7:00	No
+9/22/2025	Gang Saw	Shift A	7:00	18:00	Yes
+9/22/2025	Gang Saw	Shift B	18:00	19:00	No
+9/22/2025	Gang Saw	Shift B	19:00	6:00	Yes
+9/22/2025	Trimmer	Shift A	6:00	7:00	No
+9/22/2025	Trimmer	Shift A	7:00	18:00	Yes
+9/22/2025	Trimmer	Shift B	18:00	19:00	No
+9/22/2025	Trimmer	Shift B	19:00	6:00	Yes
+9/23/2025	SharpChain	Shift A	6:00	7:00	No
+9/23/2025	SharpChain	Shift A	7:00	18:00	Yes
+9/23/2025	SharpChain	Shift B	18:00	19:00	No
+9/23/2025	SharpChain	Shift B	19:00	6:00	Yes
+9/23/2025	Gang Saw	Shift A	6:00	7:00	No
+9/23/2025	Gang Saw	Shift A	7:00	18:00	Yes
+9/23/2025	Gang Saw	Shift B	18:00	19:00	No
+9/23/2025	Gang Saw	Shift B	19:00	6:00	Yes
+9/23/2025	Trimmer	Shift A	6:00	7:00	No
+9/23/2025	Trimmer	Shift A	7:00	18:00	Yes
+9/23/2025	Trimmer	Shift B	18:00	19:00	No
+9/23/2025	Trimmer	Shift B	19:00	6:00	Yes
+9/24/2025	SharpChain	Shift A	6:00	7:00	No
+9/24/2025	SharpChain	Shift A	7:00	18:00	Yes
+9/24/2025	SharpChain	Shift B	18:00	19:00	No
+9/24/2025	SharpChain	Shift B	19:00	6:00	Yes
+9/24/2025	Gang Saw	Shift A	6:00	7:00	No
+9/24/2025	Gang Saw	Shift A	7:00	18:00	Yes
+9/24/2025	Gang Saw	Shift B	18:00	19:00	No
+9/24/2025	Gang Saw	Shift B	19:00	6:00	Yes
+9/24/2025	Trimmer	Shift A	6:00	7:00	No
+9/24/2025	Trimmer	Shift A	7:00	18:00	Yes
+9/24/2025	Trimmer	Shift B	18:00	19:00	No
+9/24/2025	Trimmer	Shift B	19:00	6:00	Yes
+9/25/2025	SharpChain	Shift A	6:00	7:00	No
+9/25/2025	SharpChain	Shift A	7:00	18:00	Yes
+9/25/2025	SharpChain	Shift B	18:00	19:00	No
+9/25/2025	SharpChain	Shift B	19:00	6:00	Yes
+9/25/2025	Gang Saw	Shift A	6:00	7:00	No
+9/25/2025	Gang Saw	Shift A	7:00	18:00	Yes
+9/25/2025	Gang Saw	Shift B	18:00	19:00	No
+9/25/2025	Gang Saw	Shift B	19:00	6:00	Yes
+9/25/2025	Trimmer	Shift A	6:00	7:00	No
+9/25/2025	Trimmer	Shift A	7:00	18:00	Yes
+9/25/2025	Trimmer	Shift B	18:00	19:00	No
+9/25/2025	Trimmer	Shift B	19:00	6:00	Yes
+9/26/2025	SharpChain	Shift A	6:00	7:00	No
+9/26/2025	SharpChain	Shift A	7:00	18:00	Yes
+9/26/2025	SharpChain	Shift B	18:00	19:00	No
+9/26/2025	SharpChain	Shift B	19:00	6:00	Yes
+9/26/2025	Gang Saw	Shift A	6:00	7:00	No
+9/26/2025	Gang Saw	Shift A	7:00	18:00	Yes
+9/26/2025	Gang Saw	Shift B	18:00	19:00	No
+9/26/2025	Gang Saw	Shift B	19:00	6:00	Yes
+9/26/2025	Trimmer	Shift A	6:00	7:00	No
+9/26/2025	Trimmer	Shift A	7:00	18:00	Yes
+9/26/2025	Trimmer	Shift B	18:00	19:00	No
+9/26/2025	Trimmer	Shift B	19:00	6:00	Yes
+9/27/2725	SharpChain	Shift A	6:00	7:00	No
+9/27/2725	SharpChain	Shift A	7:00	18:00	Yes
+9/27/2725	SharpChain	Shift B	18:00	19:00	No
+9/27/2725	SharpChain	Shift B	19:00	6:00	Yes
+9/27/2725	Gang Saw	Shift A	6:00	7:00	No
+9/27/2725	Gang Saw	Shift A	7:00	18:00	Yes
+9/27/2725	Gang Saw	Shift B	18:00	19:00	No
+9/27/2725	Gang Saw	Shift B	19:00	6:00	Yes
+9/27/2725	Trimmer	Shift A	6:00	7:00	No
+9/27/2725	Trimmer	Shift A	7:00	18:00	Yes
+9/27/2725	Trimmer	Shift B	18:00	19:00	No
+9/27/2725	Trimmer	Shift B	19:00	6:00	Yes

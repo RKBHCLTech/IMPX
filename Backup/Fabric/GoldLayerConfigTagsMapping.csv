@@ -1,0 +1,41 @@
+id	RawTag	FlattenTsTag	FlattenValTag	InputParameterTags	Type	TimeInterval	Asset	isActive
+1	SC_Uptime			ProductiveTime_SC	Accummulated	5	SharpChain	1
+2	SC_Uptime			ProductiveTime_SC	Accummulated	60	SharpChain	1
+3	SC_RunRate_Log_HR			Log_Count_SC	Accummulated	5	SharpChain	1
+4	SC_RunRate_Log_HR			Log_Count_SC	Accummulated	60	SharpChain	1
+5	SC_LogGap_sec	SharpChain-LogGap_ts	SharpChain-LogGap_val		Event	5	SharpChain	1
+6	SC_LogGap_sec	SharpChain-LogGap_ts	SharpChain-LogGap_val		Event	60	SharpChain	1
+7	SC_Speed_FPM	SharpChain-Speed_FPM_ts	SharpChain-Speed_FPM_val		Event	5	SharpChain	1
+8	SC_Speed_FPM	SharpChain-Speed_FPM_ts	SharpChain-Speed_FPM_val		Event	60	SharpChain	1
+9	SC_Log_Gap_DLI	SharpChain-LogGap_DLI_ts	SharpChain-LogGap_DLI_val		Event	5	SharpChain	1
+10	Log_Gap_DLI	SharpChain-LogGap_DLI_ts	SharpChain-LogGap_DLI_val		Event	60	SharpChain	1
+11	Primary Avg Board Length	NoTag	NoTag		Accummulated	5	SharpChain	0
+12	Primary Avg Board Length	NoTag	NoTag		Accummulated	60	SharpChain	0
+13	Gang_Uptime			ProductiveTime_Gang	Accummulated	5	Gang	1
+14	Gang_Uptime			ProductiveTime_Gang	Accummulated	60	Gang	1
+15	Gang_CantsMin			Cant_Cnt_Gang	Event	5	Gang	1
+16	Gang_CantsMin			Cant_Cnt_Gang	Event	60	Gang	1
+17	Gang_Cant_Gap_Sec_Real	Gang-CantGap_Sec_ts	Gang-CantGap_Sec_val		Event	5	Gang	1
+18	Cant_Gap_Sec_Gang_Real	Gang-CantGap_Sec_ts	Gang-CantGap_Sec_val		Event	60	Gang	1
+19	Gang_FPM_CutSpeed	Gang-FPM_CutSpeed_ts	Gang-FPM_CutSpeed_val		Event	5	Gang	1
+20	Gang_Act_FPM_InCutSpd	Gang-FPM_CutSpeed_ts	Gang-FPM_CutSpeed_val		Event	60	Gang	1
+21	Gang_Cant_Thickness	Gang-Cant_Thickness_ts	Gang-Cant_Thickness_val		Event	5	Gang	1
+22	Cant_Thickness_Gang	Gang-Cant_Thickness_ts	Gang-Cant_Thickness_val		Event	60	Gang	1
+23	Gang_Cant_Length	Gang-Cant_Length_ts	Gang-Cant_Length_val		Event	5	Gang	1
+24	Cant_Length_Gang	Gang-Cant_Length_ts	Gang-Cant_Length_val		Event	60	Gang	1
+25	Trimmer_Uptime			ProductiveTime_Trimmer	Accummulated	5	Trimmer	1
+26	Trimmer_Uptime			ProductiveTime_Trimmer	Accummulated	60	Trimmer	1
+27	Trimmer_TotalBoards			Board_Feet_TotalSize_02X04;Board_Feet_TotalSize_02X06;Board_Feet_TotalSize_02X08;Board_Feet_TotalSize_02X10;Board_Feet_TotalSize_02X12	Accummulated	5	Trimmer	1
+28	Trimmer_TotalBoards			Board_Feet_TotalSize_02X04;Board_Feet_TotalSize_02X06;Board_Feet_TotalSize_02X08;Board_Feet_TotalSize_02X10;Board_Feet_TotalSize_02X12	Accummulated	60	Trimmer	1
+29	Trimmer_MBFTotal			Trimmer_TotalBoards	Accummulated	5	Trimmer	1
+30	Trimmer_MBFTotal			Trimmer_TotalBoards	Accummulated	60	Trimmer	1
+31	Trimmer_MBF_HR			Trimmer_MBFTotal	Accummulated	60	Trimmer	1
+32	Trimmer_Line_Performance			Trimmer_MBF_HR	Accummulated	60	Trimmer	1
+33	Trimmer_LugFill			Trimmer_TotalBoards;Lug_Count_Trimmer	Accummulated	5	Trimmer	1
+34	Trimmer_LugFill			Trimmer_TotalBoards;Lug_Count_Trimmer	Accummulated	60	Trimmer	1
+35	Trimmer_Board Length	Trimmer-BoardLength_ts	Trimmer-BoardLength_val		Event	5	Trimmer	1
+36	Trimmer_Board Length	Trimmer-BoardLength_ts	Trimmer-BoardLength_val		Event	60	Trimmer	1
+37	Trimmer_LineQuality			Trimmer_Board Length;Board_Feet_TotalSize_02X06	Event	5	Trimmer	1
+38	Trimmer_LineQuality			Trimmer_Board Length;Board_Feet_TotalSize_02X06	Event	60	Trimmer	1
+39	Trimmer_Boards_HR			Trimmer_TotalBoards	Event	60	Trimmer	1
+40	Trimmer_SorterDrive_Amps	Trimmer-SorterDriveAmps_ts	Trimmer-SorterDriveAmps_val		Event	60	Trimmer	1
