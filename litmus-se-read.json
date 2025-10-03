@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "litmus-sales-enablement",
+  "private_key_id": "053b37a3fd5ede562f877fd6f69d154a2cad65ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCKVjIUYDyCPSS\nQ61x6fwWQ9iaYrOWpuvfhQbeqILXQ7PPBh6w68CCI5y7K4kaLzD9LOKE5yF9Y1Yd\ndulVYhqSKKCELJQWRVvNGH9hN82VHbV+cdmpmtHudL1rz21Hr8kj7SVsm9GRq6e9\nDDFY5cRBhyzjFN5aTbwmjrL2rrMQvjNwzdMdC6lVw4XWyryCfQ862ArbRATzBfwV\nbbQLPVfyYOcFWIRYK0bY4hfInUHmW6qofFZhSc5aGNu8/ZyMDrVbdDw94F0Gmtvh\nzunx/ot/d4p2qv4f364XVFoQ2NHPn7Q603hLKjrCdFFMUqtD5dsrB9xIMwcuwtLv\n6w69BXD3AgMBAAECggEACSYp9P/Y287Yjh8v8vBhJ2rEBVEFqwwrjN6iWmdGCb8Q\nH9RnKX66arIjO7NLTxdj2hI9jEtYidAz/x3Ff0yo+Yko4yw3QC4S1ivDg4ETKBB8\nfGcAqDF6QfUbSz4SJVt0VsPhIb3dQV19gSGBc8cZQ93gRhpgzeWK1Pr1a5KuL77e\n+CDoAjCs0xiIBXrnyAypgwAbU3VTwwnj1racB3q7u5LcgYoCYoB4U/TPB6iCaGPz\nqapl/Yqrv11fwk1eXt+LBRb+XBq2ix4G9+ngyIXEHNpQ7BQOb9cew4TY/VJQwk6u\nTn3VUKzfSZptamVn0itWYpUVKWhBCYYvWlgYNFOgGQKBgQDrKNzlur+8rQRV4eY1\niPYEFEQw1cvZLvzT7ucGZV2IMTjwAdnzMcRA6vYNkBIWAc9TGv4WlgD7Z5c7FxXr\ne4s405CpOqxEgiasvGVJsJPyLay5JNYywbpW3zC62/zU7CvCcF0oHQCKO/ZvWjB7\nHtq2z1eJH80iJjGn5vMxsV3ZbwKBgQDTXljzpgWndYdDds/ydFun2qlguUY4laDh\n6g6U7+9SxolgTRsRtWl0gaIf36IdWkYRiVDLewpg59SHNjDObnT9AqF7WeFTGSbK\n6idnDQyKfCGE3qI51jCesVNQjP6+IA4/epC+6pKHoaoGE3IDhqtZlbEXlVFlY+3J\nxEdNbtBM+QKBgDRE7eymOM4QSwFn58qIed5oPsv4CYpptkrJNFKon0SRZE18q9wx\neKTRVQWou0xm9JVNT6LnjqpS2TuKIxYnbMehxurGntnPcBc+/OiHNitDWbwBYxb/\nFpMOov81vJn7MLLUVPCAmckgEOOpUVNchVLS/Wr+RZNMmAbw/6dQ/EJDAoGAbeHA\ncHnAuru4o/PiSvL+qxZbs3Ld9JCk4I0jI35QdkHMLQoopl4fAnhZ5iQGTSgfAQLX\nw9ClJpeevuQHH2oA239An7WsE90hc5+i+EmqWVwKuN5ci6C0Ceu5mkiSLhjQD2QS\nV43uux/qGdqGDRs3fQz60X3IoOMAPUISp0iSdVECgYAY1QI/uNZAUATj9enlurdy\nMTJqUprJpTFJ+HOr9q0Hh+5f2JuSA60iBjvGfSfbhdnZaPY3zKjKxbTuLZd+Aj0D\nWm6c0dg3R0l7xI9iqtZ8CkyaqtwiTHb0DNBoq5LqRZe9cMlRDHYYwzVtgyXpW2Iq\n+JKIo1sBc/MQQP0lnn42DQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ar-read-only@litmus-sales-enablement.iam.gserviceaccount.com",
+  "client_id": "115333112030140814819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ar-read-only%40litmus-sales-enablement.iam.gserviceaccount.com"
+}
